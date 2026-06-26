@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java / Spring Boot
+target/
+*.class
+*.jar
+
+# Temporary files
+*.tmp
