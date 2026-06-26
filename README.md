@@ -1,6 +1,6 @@
 # ⚡ INOXA – Smart Energy Management System (SEMS)
 
-A modern Smart Energy Management System (SEMS) dashboard that enables homeowners to monitor, analyze, and optimize electricity consumption through an intuitive, responsive web interface.
+**INOXA (Smart Energy Management System)** is a responsive web dashboard that enables homeowners to monitor, visualize, and optimize electricity consumption through an intuitive user interface.
 
 ---
 
@@ -76,7 +76,7 @@ INOXA-SEMS/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/INOXA-SEMS.git
+git clone https://github.com/JaisreeB/INOXA---SEMS.git
 ```
 
 2. Open the project folder.
@@ -116,7 +116,10 @@ git clone https://github.com/YOUR_USERNAME/INOXA-SEMS.git
 
 ## Screenshots
 
-Add screenshots of the dashboard here.
+<img width="1342" height="600" alt="image" src="https://github.com/user-attachments/assets/acd5adff-167d-450a-b0f6-0adc58dc7ead" />
+
+<img width="1256" height="599" alt="image" src="https://github.com/user-attachments/assets/3220fa48-a037-431e-a6d1-e4fe0554192b" />
+
 
 Example:
 
